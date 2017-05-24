@@ -3,4 +3,4 @@
 ## Projects:
 
 - [Thesis](https://michielskilian.github.io/Thesis/)
-- [Double on IOS](https://github.com/Michielskilian/DoubleIOSWithROS)
+- [Double on IOS](https://michielskilian.github.io/DoubleIOSWithROS/)
